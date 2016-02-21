@@ -1,0 +1,30 @@
+
+nav ul {
+  list-style-type: none;
+  border:2px solid gray;
+  border-radius: 8px;
+  background-color: beige;
+
+}
+
+ul li {
+  display: inline;
+  padding-left: 20px;
+  padding-right: 30px;
+}
+
+li a {
+  text-decoration: none;
+}
+
+.contact {
+  border:3px groove gray;
+  border-radius: 8px;
+  background-color: beige;
+}
+
+.position {
+  border:3px groove gray;
+  border-radius: 8px;
+  background-color: beige;
+}
